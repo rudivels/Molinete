@@ -106,7 +106,7 @@ A foto a seguir mostra tampa montada na bucha de PVC junto com a bateria de lít
 
 # 3. Software 
 
-Programar o molinete [https://circuitjournal.com/esp8266-with-arduino-ide ](https://circuitjournal.com/esp8266-with-arduino-ide)
+Programar o molinete pode se usar o procedimento colocado nese tutorial [https://circuitjournal.com/esp8266-with-arduino-ide ](https://circuitjournal.com/esp8266-with-arduino-ide)
 
 
 
@@ -201,7 +201,6 @@ void loop() {
   display.display();
   delay(1000);
 } 
-
 
 ```
 

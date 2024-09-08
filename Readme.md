@@ -1,6 +1,6 @@
 # 1. Molinete
 
-O Molinete do Laboratório de Energia e Ambiente (LEA) foi desenvolvido para viabilizar os trabalhos de levantamento dos projeto de turbinas hidrocinéticas executados pelo LEA.
+O Molinete do Laboratório de Energia e Ambiente (LEA) foi desenvolvido para viabilizar os trabalhos de levantamento de campo para instalação de turbinas hidrocinéticas.
 O instrumento devia ser de baixo custo, versátil e bastante robusto para atender as exigências do trabalho de campo de levantamento, principalmente na região Amazônica.
 
 O elemento central do Molinete é um sensor de vazão adaptado para este fim. 
@@ -31,12 +31,12 @@ A transmissão de dados pode ser realizado por meio de um protocolo mais elabora
 
 # 2. Hardware
 
-O hardware do molinte é composto por uma sensor e uma placa de controle.
+O hardware do molinete é composto por uma sensor e uma placa de controle.
 
 ## 2.2. Sensor 
 
 O sensor usado é um transdutor de vazão de duas polegadas de diametro capaz de medir 10 a 200 litros por minuto. 
-O elemento de medição é uma hélice conforme mostrada na figura a seguir. 
+O elemento de medição é uma hélice com a especificação `Fluxímetro Fluxo Água Hall Sensor G 2 Pol 10-200l Dn 50` mostrada na figura a seguir.
 
 Este elemento foi adaptado para ser usado totalmente submergido na água montada em um haste de PVC de 32mm.
 
@@ -91,7 +91,12 @@ A foto a seguir mostra tampa montada na bucha de PVC junto com a bateria de lít
 
 ![](fotos/painel_bateria.jpg)
 
+![](fotos/pci_montado.jpg)
+
 ## 2.5. Montagem
+
+
+
  
 ![](fotos/montagem_molinete.jpg)
 
@@ -101,7 +106,7 @@ A foto a seguir mostra tampa montada na bucha de PVC junto com a bateria de lít
 
 
 
-
+A lista de material com todos os componentes está no [arquivo no repositório](Lista_material_Molinete_placa_V2.xlsx)
 
 
 # 3. Software 
